@@ -9,6 +9,8 @@ public class Transakcija {
 	private double pocetniIznos;
 	private double konvertovaniIznos;
 	private Date datumTransakcije;
+	
+	
 	public String getIzvornaValuta() {
 		return izvornaValuta;
 	}
@@ -39,6 +41,7 @@ public class Transakcija {
 	public void setDatumTransakcije(Date datumTransakcije) {
 		this.datumTransakcije = datumTransakcije;
 	}
+	
 	@Override
 	public String toString() {
 		return "Transakcija [izvornaValuta=" + izvornaValuta + ", krajnjaValuta=" + krajnjaValuta + ", pocetniIznos="

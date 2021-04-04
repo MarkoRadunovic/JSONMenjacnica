@@ -1,0 +1,23 @@
+[
+  {
+    "izvornaValuta": "USD",
+    "krajnjaValuta": "EUR",
+    "pocetniIznos": 100.0,
+    "konvertovaniIznos": 85.30149999999999,
+    "datumTransakcije": "Mar 30, 2021, 12:00:00 AM"
+  },
+  {
+    "izvornaValuta": "USD",
+    "krajnjaValuta": "CHF",
+    "pocetniIznos": 100.0,
+    "konvertovaniIznos": 94.184,
+    "datumTransakcije": "Mar 30, 2021, 12:00:00 AM"
+  },
+  {
+    "izvornaValuta": "USD",
+    "krajnjaValuta": "CAD",
+    "pocetniIznos": 100.0,
+    "konvertovaniIznos": 126.22500000000001,
+    "datumTransakcije": "Mar 30, 2021, 12:00:00 AM"
+  }
+]
